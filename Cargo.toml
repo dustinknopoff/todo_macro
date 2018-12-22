@@ -10,5 +10,4 @@ proc-macro = true
 [dependencies]
 syn = "0.15"
 quote = "0.6"
-chrono = "0.4"
-
+colored = "1.6.1"
